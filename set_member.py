@@ -7,3 +7,4 @@ def in_set(user_set, user_input):
 
 if __name__ == "__main__":
     print(in_set({3,5,8,9}, 3))
+    print(in_set({3,5,8,9}, 2))
